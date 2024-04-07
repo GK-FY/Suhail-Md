@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> FYS PROPERTY </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
+  <a href="https://youtube.com/@shank.fy1">
+    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/1343c53e5d3a68d58c434.jpg">
   </a>
 </p>
     
